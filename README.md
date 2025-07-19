@@ -7,7 +7,7 @@ This project is a **dynamic JSON Schema Builder** built using **ReactJS**, style
 
 ## 🚀 Live Demo
 
-👉 Hosted on [Netlify / Vercel](https://your-live-link-here.vercel.app)  
+👉 Hosted on [Netlify / Vercel](https://hrone-json-schema-builder.netlify.app/)  
 🛠️ GitHub Repo: [github.com/D-Haku/json-schema-builder](https://github.com/D-Haku/json_schema_builder)
 
 ---
